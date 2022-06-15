@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: roboto, sans-serif;
+}
+.box-one {
+    background-color: #1f2937;
+    color: white;
+    padding: 40px;
+    font-size: 12px;
+
+}
+.box-fix {
+    float: left;
+}
+
+.link-one {
+  float: left;
+  color: white;
+  padding-left: 1500px;
+  padding-right: 30px;
+  padding-top: 10px;
+}
+
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
